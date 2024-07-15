@@ -1,0 +1,93 @@
+Site,Burial,Age,Sex,87Sr/86Sr,208Pb/204Pb,207Pb/204Pb,206Pb/204Pb,208Pb/207Pb,206Pb/207Pb,Cluster,p,Cluster (Pb,p,site group,Migrant,Reason,Source for Reason,Sample Information,Archaeologic Context,Archaeologic Context Reasoning
+Moritzing,11/T45,nd,nd,0.71199,38.8047,15.6949,18.56,2.4725,1.1826,0,1,3,1,0,1,Overlap,Grupe 2020,Possible Migrant,1,Archäologisch unauffällig
+Moritzing,16/T73,nd,nd,0.714,38.8643,15.708,18.5634,2.4743,1.1818,0,1,3,1,0,1,Overlap,Grupe 2020,Possible Migrant,1,Archäologisch unauffällig
+Moritzing,17/T79,nd,nd,0.71514,38.81,15.6993,18.6072,2.4722,1.1852,0,1,3,1,0,0,,,No Information,1,Archäologisch unauffällig
+Moritzing,US20/T146,nd,nd,0.71519,38.9103,15.7156,18.8394,2.4759,1.1987,0,1,3,0.99,0,0,,,No Information,0,
+Moritzing,US21/T147,nd,nd,0.71261,38.8232,15.6732,18.6501,2.477,1.1899,0,1,3,1,0,0,,,No Information,0,
+Moritzing,US23/149,nd,nd,0.71283,38.8364,15.7028,18.6273,2.4732,1.1862,0,1,3,1,0,0,,,No Information,1,Archäologisch unauffällig
+Moritzing,US30/188,nd,nd,0.71105,38.7344,15.6723,18.5233,2.4715,1.1819,0,1,3,1,0,1,Overlap,Grupe 2020,Possible Migrant,2,Beigabenlos
+Moritzing,5/T22,nd,nd,0.71307,38.8137,15.6933,18.5943,2.4733,1.1849,0,1,3,1,0,1,Overlap,Grupe 2020,Possible Migrant,1,Archäologisch unauffällig
+Moritzing,6/T27,nd,nd,0.71562,38.909,15.723,18.5579,2.4747,1.1803,0,1,3,1,0,0,,,No Information,2,"Die Deutung als Grab ist unsicher, Begründung in der Publikation: fehlender Leichenbrand. Was es mit dem für Grab 6 inventarisierten Leichenbrand auf sich hat ist unklar"
+Moritzing,T3/18,nd,nd,0.71277,38.6687,15.6544,18.5191,2.4701,1.183,0,1,3,1,0,1,Overlap,Grupe 2020,Possible Migrant,1,Archäologisch unauffällig
+Moritzing,1/T6,nd,nd,0.71335,38.8064,15.694,18.6464,2.4727,1.1881,0,1,3,1,0,0,,,No Information,1,Archäologisch unauffällig
+Pfatten,T14,min. juv.,nd,0.7125,38.741,15.6724,18.71,2.4721,1.1938,0,1,3,1,0,0,,,No Information,2,"Reichhaltige Beigabenausstattung, aber nur Einheimisches"
+Pfatten,T3,nd,nd,0.71065,38.8792,15.6926,18.846,2.4774,1.2009,0,1,3,0.99,0,0,,,No Information,0,
+Pfatten,T4U,adult,m,0.71497,38.8043,15.668,18.7047,2.4767,1.1938,0,1,3,1,0,0,,,No Information,0,
+Pfatten,T4V,adult,f,0.71276,38.8003,15.682,18.7744,2.4742,1.1972,0,1,3,1,0,0,,,No Information,0,
+Latsch,396,adult,nd,0.71816,38.5362,15.6493,18.7432,2.4625,1.1977,0,1,3,1,0,0,,,No Information,0,
+Latsch,447,adult,nd,0.72058,38.4894,15.6455,18.5992,2.4601,1.1888,0,1,3,1,0,0,,,No Information,0,
+Latsch,454,adult,nd,0.72167,38.5957,15.659,18.7497,2.4647,1.1974,0,1,3,1,0,0,,,No Information,0,
+Latsch,537,adult,nd,0.72144,38.5092,15.6497,18.6467,2.4607,1.1915,0,1,3,1,0,0,,,No Information,0,
+Latsch,596,adult,nd,0.72185,38.3693,15.6255,18.5451,2.4556,1.1869,0,1,3,1,0,0,,,No Information,1,Archäologisch unauffällig
+Latsch,604,adult,nd,0.71925,38.5181,15.6512,18.8594,2.4611,1.205,0,1,3,1,0,0,,,No Information,0,
+Latsch,642,adult,nd,0.71955,38.4733,15.6427,18.6462,2.4595,1.192,0,1,3,1,0,0,,,No Information,0,
+Latsch,651,adult,nd,0.72048,38.5716,15.6451,18.5674,2.4654,1.1868,0,1,3,1,0,0,,,No Information,0,
+Latsch,652f,adult,nd,0.72147,38.5453,15.6535,18.6984,2.4624,1.1946,0,1,3,1,0,0,,,No Information,0,
+Latsch,653,adult,nd,0.72141,38.3666,15.6185,18.465,2.4566,1.1822,0,1,3,1,0,0,,,No Information,1,Archäologisch unauffällig
+Latsch,655,adult,nd,0.72228,38.4996,15.6512,18.4639,2.4599,1.1797,0,1,3,1,0,0,,,No Information,0,
+Latsch,657,adult,nd,0.71832,38.6085,15.6658,18.717,2.4645,1.1948,0,1,3,1,0,0,,,No Information,0,
+Latsch,O.T.,adult,nd,0.71568,38.5144,15.631,18.5198,2.464,1.1848,0,1,3,1,0,0,,,No Information,1,Archäologisch unauffällig
+Latsch,592,adult,nd,0.72178,38.5489,15.6442,18.7382,2.4641,1.1978,0,1,3,1,0,0,,,No Information,0,
+Latsch,652D,adult,nd,0.72148,38.565,15.6357,18.7286,2.4664,1.1978,0,1,3,1,0,0,,,No Information,0,
+Latsch,652C,adult,nd,0.72266,38.4858,15.6332,18.6716,2.4618,1.1944,0,1,3,1,0,0,,,No Information,0,
+Brixen,323 ind. 1,adult,m,0.71697,38.649,15.6749,18.4703,2.46568,1.1783,0,1,3,1,0,0,,,No Information,1,Archäologisch unauffällig
+Brixen,324 ind.,adult,m,0.7182,38.5423,15.6499,18.4316,2.46279,1.1777,0,1,3,1,0,0,,,No Information,1,Archäologisch unauffällig
+Kundl,33,adult,m,0.70907,38.3803,15.6387,18.3528,2.4542,1.1735,1,1,3,1,1,0,,,No Information,0,
+Kundl,48,adult,nd,0.71197,38.4711,15.6542,18.4126,2.4576,1.1762,1,1,3,1,1,0,,,No Information,0,
+Kundl,53,adult,m,0.7092,38.4992,15.6619,18.4243,2.4581,1.1764,1,1,3,1,1,0,,,No Information,0,
+Kundl,37,min. juv.,nd,0.7107,38.3964,15.6396,18.3664,2.4551,1.1743,1,1,3,1,1,0,,,No Information,0,
+Kundl,73,adult,nd,0.71083,38.514,15.6581,18.4705,2.4598,1.1796,1,1,3,1,1,0,,,No Information,0,
+Kundl,7,adult,m,0.70929,38.2446,15.6349,18.274,2.4461,1.1688,1,1,3,1,1,1,Statistical Outlier,Grupe 2020,Possible Migrant,0,
+Kundl,64,nd,nd,0.71054,38.5661,15.6695,18.475,2.4612,1.179,1,1,3,1,1,0,,,No Information,1,Archäologisch unauffällig
+Kundl,151,adult,f,0.71029,38.8297,15.7269,18.5329,2.4691,1.1784,1,0.95,3,0.91,1,1,Statistical Outlier,Grupe 2020,Possible Migrant,1,Archäologisch unauffällig
+Kundl,75,min. juv.,nd,0.71094,37.9895,15.5847,18.1376,2.4376,1.1638,1,1,3,1,1,1,Statistical Outlier,Grupe 2020,Possible Migrant,0,
+Kundl,85,nd,nd,0.71139,38.3824,15.6396,18.3857,2.4542,1.1756,1,1,3,1,1,0,,,No Information,0,
+Kundl,58,adult,f,0.70982,38.5737,15.6698,18.4882,2.4616,1.1799,1,1,3,1,1,0,,,No Information,0,
+Kundl,89/I,min. juv.,nd,0.71125,38.1815,15.6248,18.2135,2.4437,1.1656,1,1,3,1,1,1,"Grave Goods(Southwestern German Style), Statistical Outlier",Grupe 2020,Identified Migrant,0,
+Kundl,85,nd,nd,0.71131,38.5242,15.6697,18.459,2.4585,1.178,1,1,3,1,1,0,,,No Information,0,
+Kundl,72,min. juv.,nd,0.71084,38.5631,15.6581,18.417,2.4628,1.1762,1,1,3,1,1,0,,,No Information,2,Südalpine Keramik
+Kundl,27,juvenile,nd,0.71123,38.426,15.6504,18.4032,2.4553,1.1759,1,1,3,1,1,0,,,No Information,0,
+Kundl,90,adult,f,0.7121,38.6756,15.6699,18.6006,2.4682,1.1871,1,0.97,3,0.94,1,1,"Statistical Outlier, Overlap",Grupe 2020,Possible Migrant,1,Archäologisch unauffällig
+Kundl,95,nd,nd,0.71113,38.3164,15.6147,18.4447,2.454,1.1812,1,1,3,1,1,0,,,No Information,0,
+Kundl,91,nd,nd,0.70971,38.5585,15.6532,18.5142,2.4634,1.1828,1,1,3,1,1,0,,,No Information,1,Archäologisch unauffällig
+Kundl,111,juvenile,nd,0.71025,38.314,15.6316,18.3392,2.4513,1.1733,1,1,3,1,1,0,,,No Information,0,
+Kundl,115,juvenile,nd,0.71104,38.5572,15.6784,18.4518,2.4593,1.1769,1,1,3,1,1,0,,,No Information,0,
+Kundl,131,adult,m,0.70918,38.3771,15.645,18.4471,2.453,1.1791,1,1,3,1,1,0,,,No Information,0,
+Kundl,139,nd,nd,0.71068,38.2069,15.6241,18.2601,2.4453,1.1687,1,1,3,1,1,1,Statistical Outlier,Grupe 2020,Possible Migrant,0,
+Kundl,104,adult,f,0.71077,38.3973,15.6436,18.4348,2.4545,1.1784,1,1,3,1,1,0,,,No Information,0,
+Kundl,23,nd,nd,0.71045,38.499,15.6558,18.4131,2.45924,1.1761,1,1,3,1,1,0,,,No Information,0,
+Kundl,36,adult,m,0.70909,38.5338,15.66,18.4409,2.46078,1.1776,1,1,3,1,1,0,,,No Information,0,
+Kundl,42,adult,nd,0.71194,38.7346,15.6973,18.5736,2.46791,1.1833,1,0.96,3,0.91,1,1,Overlap,,Possible Migrant,1,Archäologisch unauffällig
+Kundl,180,nd,nd,0.70927,38.5048,15.6579,18.4137,2.45905,1.176,1,1,3,1,1,0,,,No Information,0,
+Kundl,52,min. juv.,nd,0.71091,38.5134,15.6642,18.4262,2.45873,1.1764,1,1,3,1,1,0,,,No Information,0,
+Kundl,105,min. juv.,nd,0.71038,38.5119,15.6619,18.4189,2.45892,1.1761,1,1,3,1,1,0,,,No Information,0,
+Kundl,113,adult,f,0.711,38.5164,15.6592,18.4018,2.45974,1.1752,1,1,3,1,1,0,,,No Information,0,
+Kundl,114,adult,f,0.71101,38.5353,15.6721,18.4405,2.45892,1.1764,1,1,3,1,1,0,,,No Information,0,
+Kundl,165,adult,nd,0.70978,38.5202,15.6634,18.4227,2.45933,1.1762,1,1,3,1,1,0,,,No Information,0,
+Kundl,128,adult,m,0.71184,38.5812,15.667,18.425,2.46256,1.176,1,1,3,1,1,0,,,No Information,1,Archäologisch unauffällig
+Kundl,22,nd,nd,0.70921,38.4922,15.6564,18.4085,2.45863,1.1758,1,1,3,1,1,0,,,No Information,0,
+Kundl,Komplex G90,min. juv.,nd,0.71022,38.4698,15.6475,18.4145,2.4588,1.1768,1,1,3,1,1,0,,,No Information,0,
+Kundl,107,adult,m,0.71049,38.4768,15.6349,18.5226,2.46093,1.1847,1,1,3,1,1,0,,,No Information,1,Archäologisch unauffällig
+Kundl,106,nd,nd,0.70923,38.4837,15.6535,18.3939,2.45845,1.1751,1,1,3,1,1,0,,,No Information,0,
+Kundl,19,nd,nd,0.71131,38.478,15.654,18.4167,2.45802,1.1764,1,1,3,1,1,0,,,No Information,0,
+Kundl,25 (Bef 124),min. juv.,m,0.71613,38.5164,15.665,18.4232,2.45904,1.1761,1,1,3,1,1,1,Statistical Outlier in Strontium,Grupe 2020,Possible Migrant,1,Archäologisch unauffällig
+Kundl,38,min. juv.,nd,0.71031,38.4853,15.6533,18.4018,2.45854,1.1756,1,1,3,1,1,0,,,No Information,0,
+Kundl,1,nd,nd,0.71146,38.567,15.6731,18.4302,2.46065,1.1759,1,1,3,1,1,0,,,No Information,1,Archäologisch unauffällig
+Kundl,154,adult,nd,0.71031,38.5845,15.6775,18.5049,2.46124,1.1804,1,1,3,0.99,1,0,,,No Information,0,
+Kundl,25 (Bef L10),adult,nd,0.71129,38.4394,15.6421,18.4005,2.4574,1.1763,1,1,3,1,1,1,Statistical Outlier in Strontium,Grupe 2020,Possible Migrant,0,
+Kundl,68,min. juv.,m,0.71076,38.5559,15.6771,18.42,2.45929,1.1749,1,1,3,1,1,0,,,No Information,0,
+Kundl,164,adult,m,0.71053,38.4395,15.6412,18.3915,2.45763,1.1758,1,1,3,1,1,0,,,No Information,0,
+Wörgl,17,nd,nd,0.70908,38.2379,15.6132,18.2944,2.44912,1.1717,1,1,3,1,1,0,,,No Information,0,
+Wörgl,19,nd,nd,0.71125,38.5182,15.6518,18.4284,2.46096,1.1774,1,1,3,1,1,0,,,No Information,1,Archäologisch unauffällig
+Wörgl,44,nd,nd,0.71262,38.686,15.6711,18.5611,2.46863,1.1844,1,0.9,3,0.93,1,1,Overlap,Grupe 2020,Possible Migrant,1,Archäologisch unauffällig
+Wörgl,72,adult,m,0.71345,38.5499,15.6545,18.4792,2.46255,1.1805,1,1,3,1,1,1,Overlap,Grupe 2020,Possible Migrant,2,Fremdkeramik(Alpenvorland)
+Wörgl,72A,adult,nd,0.71246,38.7026,15.6819,18.6233,2.468,1.1877,1,0.61,3,1,1,1,"Weak Cluster Assignment, Statistical Outlier, Overlap",Grupe 2020,Possible Migrant,1,Archäologisch unauffällig
+Wörgl,73,max. juv.,nd,0.71443,38.3304,15.6379,18.3196,2.45113,1.1714,1,1,3,1,1,0,,,No Information,0,
+Wörgl,74,nd,nd,0.71238,38.6943,15.6791,18.4943,2.4679,1.1795,1,0.97,3,1,1,1,Overlap,Grupe 2020,Possible Migrant,1,Archäologisch unauffällig
+Wörgl,77,max. juv.,nd,0.71472,38.587,15.6566,18.455,2.46454,1.1787,1,1,3,1,1,1,"Statistical Outlier in Strontium, Overlap",Grupe 2020,Possible Migrant,1,Archäologisch unauffällig
+Wörgl,77 u.O.,max. juv.,nd,0.71291,38.6787,15.6739,18.5889,2.46772,1.186,1,0.83,3,1,1,1,"Weak Cluster Assignment, Grave Goods, Statistical Outlier, Overlap",Grupe 2020,Identified Migrant,1,Archäologisch unauffällig
+Wörgl,78,adult,f,0.71472,38.455,15.6358,18.5031,2.45953,1.1833,1,1,3,1,1,1,"Statistical Outlier in Strontium, Grave Goods, Overlap",Grupe 2020,Identified Migrant,1,Archäologisch unauffällig
+Wörgl,79,adult,m,0.71438,38.3967,15.6504,18.3436,2.4534,1.1721,1,1,3,1,1,0,,,No Information,0,
+Kundl,160,min. juv.,nd,0.71012,38.9675,15.7393,18.7144,2.4758,1.189,2,0.92,4,0.57,1,1,"Grave Goods(Connection to the South), most probable immigrant",Grupe 2020,Identified Migrant,2,Ungewöhnliches Amulett wahrscheinlich südalpin
+Kundl,89/II,adult,nd,0.71079,38.6657,15.6452,18.7644,2.4714,1.1994,2,0.68,3,0.64,1,1,"Weak Cluster Assignment,  Archaeological Context, Grave Goods(south of the Alps and southwestern Germany), GMM most probable immigrant from the South(fibulae from South Tyrole)",Grupe 2020,Identified Migrant,2,Fremdkeramik(SW-Deutschland)
+Kundl,40,adult,nd,0.71093,38.7756,15.6589,18.8423,2.4763,1.2033,2,0.99,4,0.85,1,1,"Grave Goods(Unique), most probablöe immigrant",Grupe 2020,Identified Migrant,0,
